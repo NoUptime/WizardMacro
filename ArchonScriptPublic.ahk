@@ -7,7 +7,7 @@ return
 
 q::
 {
-WhileGetKeyState ("%Archon%","p")//Archon
+WhileGetKeyState ("q","p")//Archon
 Send {1}
 Send {4 down}
 Sleep 2300
