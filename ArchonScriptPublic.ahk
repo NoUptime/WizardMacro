@@ -12,7 +12,7 @@ Send {1}
 Send {4 down}
 Sleep 2300
 Send {4 up}
-Send {3|
+Send {3}
 Sleep 50 
 MouseMove, Var3, Var4, 0
 Sleep 50
